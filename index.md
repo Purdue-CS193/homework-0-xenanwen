@@ -11,17 +11,20 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Grocery List Xena
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Chicken
+- Salmon
+- Peanut butter
+- Dark Chocolate 90%
+- Avacado oil
+- Potatoes
+- Avacados
+- Napa Cabbage
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+**BEST** and _Grocery List_ and `Ever` text
 
 [Link](url) and ![Image](src)
 ```
