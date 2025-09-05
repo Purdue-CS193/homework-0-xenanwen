@@ -11,18 +11,14 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Grocery List Xena
-## Header 2
-### Header 3
+# Xena Nguyen's first CS193 Homework
 
-- Chicken
-- Salmon
-- Peanut butter
-- Dark Chocolate 90%
-- Avacado oil
-- Potatoes
-- Avacados
-- Napa Cabbage
+
+- Friendly course
+- Useful in real world
+- Super applicable
+- Taught in my freshman year
+- Taught by experienced upperclassmen
 
 **BEST** and _Grocery List_ and `Ever` text
 
